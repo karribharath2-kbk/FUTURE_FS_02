@@ -1,0 +1,2 @@
+{"_id":{"$oid":"5e0eeaa512dbf320b2c06e54"},"UID":0.0,"Name":"Admin","Email":"admin@crm.com","Phone":7.89456123e+09,"Password":"12345"}
+{"_id":{"$oid":"5e0eeb2912dbf320b2c06e55"},"UID":1.0,"Name":"Admin1","Email":"admin1@crm.com","Phone":7.89456123e+09,"Password":"12345"}
